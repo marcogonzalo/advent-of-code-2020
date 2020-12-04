@@ -1,2 +1,1 @@
-# Gitpod-Python-Debug
-Python Debugging in Gitpod
+# advent-of-code-2020
