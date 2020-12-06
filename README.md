@@ -9,3 +9,5 @@
 [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
 [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
+
+[Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
